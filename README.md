@@ -1,0 +1,5 @@
+- 序列化 Parcelable
+- [AIDL使用解析](https://www.jianshu.com/p/a5c73da2e9be)
+- [音频策略管理](http://blog.csdn.net/lucky9322/article/details/79240804)
+- [内容提供者获取audio信息](http://blog.csdn.net/lucky9322/article/details/79242109)
+- [耳机线控](http://blog.csdn.net/lucky9322/article/details/79247031)
